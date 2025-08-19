@@ -1,0 +1,84 @@
+{
+    "name": "rafighucy",
+    "version": "4.5.6",
+    "description": "Jangan jual skrip ini",
+    "main": "index.js",
+    "type": "module",
+    "directories": {
+        "lib": "lib",
+        "src": "src",
+        "plugins": "plugins",
+        "json": "json"
+    },
+    "scripts": {
+        "start": "node index.js --pairing",
+        "test": "node test.js"
+    },
+    "homepage": "https://github.com/Rafighucy",
+    "author": {
+        "name": "Rafighucy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Rafighucy.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Rafighucy/issues"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "@adiwajshing/baileys": "npm:@fizzxydev/baileys-pro@latest",
+        "cfonts": "^3.3.0",
+        "node-schedule": "^2.1.1",
+        "chalk": "^5.3.0",
+        "unzipper": "latest",
+        "got": "^12.5.3",
+        "sharp": "^0.32.6",
+        "canvas": "^2.11.2",
+        "ssh2": "latest",
+        "yargs": "latest",
+        "fluent-ffmpeg": "^2.1.3",
+        "node-webpmux": "^3.1.1",
+        "formdata-node": "^4.3.2",
+        "pdfkit": "^0.15.0",
+        "undici": "^5.11.0",
+        "cheerio": "github:XM4ZE/cheerio",
+        "node-cron": "latest",
+        "novita-sdk": "latest",
+        "puppeteer": "latest",
+        "canvafy": "latest",
+        "@google/generative-ai": "^0.11.3",
+        "similarity": "^1.2.1",
+        "mongoose": "github:Automattic/mongoose",
+        "jimp": "^0.22.12",
+        "syntax-error": "^1.4.0",
+        "file-type": "^19.6.0",
+        "node-os-utils": "latest",
+        "human-readable": "^0.2.1",
+        "nodemailer": "^6.9.12",
+        "node-gtts": "latest",
+        "url-regex-safe": "^4.0.0",
+        "node-cache": "^5.1.2",
+        "@hapi/boom": "^10.0.0",
+        "awesome-phonenumber": "^2.64.0",
+        "crypto": "^1.0.1",
+        "javascript-obfuscator": "^4.1.0",
+        "megajs": "^1.3.0",
+        "jsdom": "^25.0.1",
+        "link-preview-js": "^3.0.12",
+        "lodash": "^4.17.21",
+        "lowdb": "^3.0.0",
+        "md5": "^2.3.0",
+        "mime-types": "^2.1.35",
+        "@vitalets/google-translate-api": "latest",
+        "moment-timezone": "^0.5.45",
+        "node-fetch": "^3.2.0",
+        "qrcode": "^1.5.0",
+        "js-confuser": "^1.7.3",
+        "qrcode-terminal": "^0.12.0",
+        "webcrack": "latest"
+      },
+    "optionalDependencies": {
+        "wa-sticker-formatter": "^4.3.2"
+    }
+}
